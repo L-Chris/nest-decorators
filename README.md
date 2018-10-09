@@ -1,5 +1,5 @@
 # nest-decorators
-useful decrorators for nest
+useful decorators for nest
 
 ## ParamDecorator
 
