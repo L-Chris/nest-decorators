@@ -1,6 +1,6 @@
 {
   "name": "nest-decorators",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "main": "dist/index.js",
   "repository": "https://github.com/L-Chris/nest-decorators",
   "author": "L-Chris <563303226@qq.com>",
